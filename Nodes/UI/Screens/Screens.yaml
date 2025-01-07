@@ -1,0 +1,7 @@
+Name: Screens
+Type: ScreensCategoryFolder
+Children:
+- Name: Test
+  Id: g=872297f6b83ed20ccc738017e6bd91bc
+  Supertype: Screen
+  ReferenceType: HasComponent
