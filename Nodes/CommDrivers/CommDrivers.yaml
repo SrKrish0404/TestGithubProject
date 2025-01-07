@@ -1,2 +1,5 @@
 Name: CommDrivers
 Type: CommDriversCategoryFolder
+Children:
+- File: Studio5000/Studio5000.yaml
+- File: RAEtherNet_IPDriver1/RAEtherNet_IPDriver1.yaml

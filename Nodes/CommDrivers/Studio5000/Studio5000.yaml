@@ -1,0 +1,7 @@
+Name: Studio5000
+Type: RAEtherNetIPDriver
+Children:
+- File: Studio/Studio.yaml
+- Name: AllowRuntimeTagImport
+  Type: BaseDataVariableType
+  DataType: Boolean
